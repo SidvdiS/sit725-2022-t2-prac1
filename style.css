@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.done-template {
+  background-color: chartreuse;
+  height: 100px;
+  width: 50%;
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+  margin-top: 8px;
+}
+
+.close-template {
+  display: none;
+}
